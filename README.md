@@ -1,6 +1,4 @@
-## ▎Kyomin : Web Programmer
-   
-   
+## ▎Kyomin : Web Programmer   
 주 개발 영역은 자바스크립트를 이용한 웹 프론트엔드이며, 웹 백엔드 프로그래밍에도 관심이 많습니다.  
 웹 분야 외에도 여러 IT 분야의 기술을 습득하기 위해 노력 중입니다.   
 기술을 응용해 실 서비스를 제공하는 애플리케이션을 만드는 데에 큰 흥미를 갖고 있습니다.   
@@ -8,6 +6,15 @@
    
 ![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=kyomin&show_icons=true&count_private=true&line_height=24&theme=material-palenight&hide=stars)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyomin&layout=compact&theme=material-palenight)
+
+## ▎Career
+- Kyunghee Univ. graduated at Feb 2020 (major in Computer Engineering)
+- 달콤 본사 인턴십 (2018.12 - 2019.02) : React를 이용한 로봇 테스트 페이지 작업
+- 데일리펀딩 인턴십 (2019.07 - 2019.08) : React를 이용한 회사 홈페이지 제작 작업
+- N Tech Service (NTS) 인턴십 (2020.01 - 2020.02) : 스프링 프레임워크를 이용한 온라인 예약 서비스 만들기
+- 메가존 인턴십 (2020.07 - 2020.09) : TypeScript & GraphQL & React & NodeJS를 이용한 과제 수행
+- 원익로보틱스 (2021.01 - 2021.06) : 서비스 콘텐츠 파트에서 로봇 애플리케이션 개발
+- 카카오커머스 (2021.06 - ) : 웹개발 파트에서 프론트엔드 개발
 
 ## ▎🛠 Tech Stacks
 - Front-end : <span><img src="https://img.shields.io/badge/HTML-e34f26?style=flat&logo=html5&logoColor=white"/></span>
