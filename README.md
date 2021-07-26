@@ -4,7 +4,10 @@
 주 개발 영역은 자바스크립트를 이용한 웹 프론트엔드이며, 웹 백엔드 프로그래밍에도 관심이 많습니다.  
 웹 분야 외에도 여러 IT 분야의 기술을 습득하기 위해 노력 중입니다.   
 기술을 응용해 실 서비스를 제공하는 애플리케이션을 만드는 데에 큰 흥미를 갖고 있습니다.   
-개발 외에도 꾸준히 알고리즘 문제를 풀며 컴퓨팅적 사고를 기르기 좋아하는 주니어 개발자입니다.
+개발 외에도 꾸준히 알고리즘 문제를 풀며 컴퓨팅적 사고를 기르기 좋아하는 주니어 개발자입니다.   
+   
+![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=kyomin&show_icons=true&count_private=true&line_height=24&theme=material-palenight&hide=stars)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyomin&layout=compact&theme=material-palenight)
 
 ## ▎🛠 Tech Stacks
 - Front-end : <span><img src="https://img.shields.io/badge/HTML-e34f26?style=flat&logo=html5&logoColor=white"/></span>
