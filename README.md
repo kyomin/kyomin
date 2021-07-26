@@ -9,7 +9,7 @@
 
 ## ▎Career
 - Kyunghee Univ. graduated at Feb 2020 (major in Computer Engineering)
-- 달콤 본사 인턴십 (2018.12 - 2019.02) : React를 이용한 로봇 테스트 페이지 작업
+- 달콤 본사 인턴십 (2018.12 - 2019.02) : React를 이용한 바리스타 로봇 테스트 페이지 작업
 - 데일리펀딩 인턴십 (2019.07 - 2019.08) : React를 이용한 회사 홈페이지 제작 작업
 - N Tech Service (NTS) 인턴십 (2020.01 - 2020.02) : 스프링 프레임워크를 이용한 온라인 예약 서비스 만들기
 - 메가존 인턴십 (2020.07 - 2020.09) : TypeScript & GraphQL & React & NodeJS를 이용한 과제 수행
