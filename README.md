@@ -1,5 +1,5 @@
 ## ▎Kyomin : Web Programmer   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com).  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)   
    
 주 개발 영역은 자바스크립트를 이용한 웹 프론트엔드이며, 웹 백엔드 프로그래밍에도 관심이 많습니다.  
 웹 분야 외에도 여러 IT 분야의 기술을 습득하기 위해 노력 중입니다.   
