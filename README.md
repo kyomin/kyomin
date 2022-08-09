@@ -22,6 +22,7 @@
 - Front-end : <span><img src="https://img.shields.io/badge/HTML-e34f26?style=flat&logo=html5&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/CSS-1572b6?style=flat&logo=css3&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></span>
+<span><img src="https://badgen.net/badge/-/TypeScript/blue?icon=typescript&label"/></span>
 <span><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/React-61dafb?style=flat&logo=react&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Vuetify-00C58E?style=flat&logo=Vuetify&logoColor=white"/></span>
