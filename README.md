@@ -31,6 +31,7 @@
 <span><img src="https://img.shields.io/badge/Bootstrapap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/></span>
 - Back-end : <span><img src="https://img.shields.io/badge/Node.js-e34f26?style=flat&logo=Node.js&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Spring-e34f26?style=flat&logo=Spring&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/></span>
 - Database : <span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></span>
 - Version Control : <span><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></span>
@@ -41,3 +42,4 @@
 <span><img src="https://img.shields.io/badge/Java-181717?style=flat&logo=Java&logoColor=white"/></span>
 - Source Code Editor : <span><img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></span>
+- Operating System : <span><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/></span>
