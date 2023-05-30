@@ -24,8 +24,9 @@
 <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></span>
 <span><img src="https://badgen.net/badge/-/TypeScript/blue?icon=typescript&label"/></span>
 <span><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/React-61dafb?style=flat&logo=react&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Nuxt.js-38B2AC?style=flat&logo=Nuxt.js&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/React-61dafb?style=flat&logo=react&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Sass-cc6699?style=flat&logo=sass&logoColor=white"/></span><br/>
 - Back-end : <span><img src="https://img.shields.io/badge/Node.js-e34f26?style=flat&logo=Node.js&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Spring-e34f26?style=flat&logo=Spring&logoColor=white"/></span>
