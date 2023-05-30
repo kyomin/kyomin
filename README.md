@@ -27,7 +27,8 @@
 <span><img src="https://img.shields.io/badge/Nuxt.js-38B2AC?style=flat&logo=Nuxt.js&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/React-61dafb?style=flat&logo=react&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Sass-cc6699?style=flat&logo=sass&logoColor=white"/></span><br/>
+<span><img src="https://img.shields.io/badge/Sass-cc6699?style=flat&logo=sass&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Bootstrapap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/></span>
 - Back-end : <span><img src="https://img.shields.io/badge/Node.js-e34f26?style=flat&logo=Node.js&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Spring-e34f26?style=flat&logo=Spring&logoColor=white"/></span>
 - Database : <span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></span>
