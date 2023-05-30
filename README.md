@@ -31,6 +31,7 @@
 - Back-end : <span><img src="https://img.shields.io/badge/Node.js-e34f26?style=flat&logo=Node.js&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Spring-e34f26?style=flat&logo=Spring&logoColor=white"/></span>
 - Database : <span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></span>
 - Version Control : <span><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></span>
 - Programming Languages : <span><img src="https://img.shields.io/badge/C-181717?style=flat&logo=C&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/C++-181717?style=flat&logo=C++&logoColor=white"/></span>
